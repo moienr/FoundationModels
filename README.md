@@ -32,3 +32,5 @@ IBM Technology on Youtube is a great place to start.
 
 
 ## Papers
+
+[Towards Geospatial Foundation Models via Continual Pretraining](https://arxiv.org/abs/2302.04476)
