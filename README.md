@@ -26,6 +26,16 @@ IBM Technology on Youtube is a great place to start.
 [Stanford CS324 - Large Language Models, Stanford University](https://stanford-cs324.github.io/winter2022/)  [Video]()
 
 
+
+### Stanford HAI Workshop
+
+Stanford HAI is a multi-disciplinary institute focused on Foundation models.
+
+[Day1](https://www.youtube.com/watch?v=dG628PEN1fY)
+
+
+
+
 ## Repositories
 
 [IBM NASA Geospatial](https://huggingface.co/ibm-nasa-geospatial) is a foundation model trained on NASA's Earth Observing System Data and Information System (EOSDIS) data. It has Segmentation models like **Flood**. Their base model is called **Prithivi**. And they have various fine-tuned models like **Flood**.
