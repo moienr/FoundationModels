@@ -3,6 +3,7 @@
 ## Introduction
 In this repository, I will save my work on Generative AI, Foundation Models and Large Language Models. 
 
+[Foundation Models 101](https://www.scribbledata.io/blog/foundation-models-101-a-step-by-step-guide-for-beginners/)
 
 
 ## Videos
@@ -25,6 +26,7 @@ IBM Technology on Youtube is a great place to start.
 
 [Stanford CS324 - Large Language Models, Stanford University](https://stanford-cs324.github.io/winter2022/)  [Video]()
 
+[LLM Crash Course - YouTube](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 
 
 ### Stanford HAI Workshop
