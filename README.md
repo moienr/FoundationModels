@@ -28,6 +28,7 @@ IBM Technology on Youtube is a great place to start.
 
 [LLM Crash Course - YouTube](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 
+[LangChain Course](https://youtu.be/lG7Uxts9SXs?si=ZNdcEH5Vx6lg0odX)
 
 ### Stanford HAI Workshop
 
