@@ -11,7 +11,7 @@ In this repository, I will save my work on Generative AI, Foundation Models and 
 IBM Technology on Youtube is a great place to start. 
 [Why foundation models are a paradigm shift for AI](https://www.youtube.com/watch?v=1JzMSbcInxc)
 
-
+[David Tuia Talk on Vision-Language Models in Remote Sensing](https://www.youtube.com/watch?v=Z3KOChhXkYk)
 
 ## Courses
 
@@ -43,7 +43,9 @@ Stanford HAI is a multi-disciplinary institute focused on Foundation models.
 
 [IBM NASA Geospatial](https://huggingface.co/ibm-nasa-geospatial) is a foundation model trained on NASA's Earth Observing System Data and Information System (EOSDIS) data. It has Segmentation models like **Flood**. Their base model is called **Prithivi**. And they have various fine-tuned models like **Flood**.
 
+[SpectralGPT](https://www.linkedin.com/posts/danfeng-hong-82868612b_spectralgpt-the-first-spectral-remote-sensing-activity-7142524357293056000-0sua/?utm_source=share&utm_medium=member_android)
 
 ## Papers
 
 [Towards Geospatial Foundation Models via Continual Pretraining](https://arxiv.org/abs/2302.04476)
+[SpectalGPT](https://arxiv.org/abs/2311.07113)
