@@ -57,3 +57,9 @@ Stanford HAI is a multi-disciplinary institute focused on Foundation models.
 
 [Towards Geospatial Foundation Models via Continual Pretraining](https://arxiv.org/abs/2302.04476)
 [SpectalGPT](https://arxiv.org/abs/2311.07113)
+
+
+
+# Articles
+
+[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
