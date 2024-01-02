@@ -4,6 +4,7 @@
 In this repository, I will save my work on Generative AI, Foundation Models and Large Language Models. 
 
 [Foundation Models 101](https://www.scribbledata.io/blog/foundation-models-101-a-step-by-step-guide-for-beginners/)
+
 [The Full Guide to Foundation Models](https://encord.com/blog/foundation-models/)
 
 ## Videos
