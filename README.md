@@ -45,6 +45,8 @@ Stanford HAI is a multi-disciplinary institute focused on Foundation models.
 
 [Awesome Foundation Models](https://github.com/uncbiag/Awesome-Foundation-Models)
 
+[Awsome Computer Vision Foundation Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
+
 [IBM NASA Geospatial](https://huggingface.co/ibm-nasa-geospatial) is a foundation model trained on NASA's Earth Observing System Data and Information System (EOSDIS) data. It has Segmentation models like **Flood**. Their base model is called **Prithivi**. And they have various fine-tuned models like **Flood**.
 
 [SpectralGPT](https://www.linkedin.com/posts/danfeng-hong-82868612b_spectralgpt-the-first-spectral-remote-sensing-activity-7142524357293056000-0sua/?utm_source=share&utm_medium=member_android)
