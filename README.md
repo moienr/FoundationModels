@@ -14,6 +14,12 @@ IBM Technology on Youtube is a great place to start.
 
 [David Tuia Talk on Vision-Language Models in Remote Sensing](https://www.youtube.com/watch?v=Z3KOChhXkYk)
 
+
+**#### **Stable Diffusion**
+[Paper Explained](https://www.youtube.com/watch?v=rC34475rEnw)
+
+[Using Stable Diffusion for Image Generation](https://www.youtube.com/watch?v=ltLNYA3lWAQ)
+
 ## Courses
 
 [Andrew NG Generative AI with Large Language Models](https://downloadly.ir/elearning/video-tutorials/generative-ai-with-large-language-models/)
@@ -57,6 +63,7 @@ Stanford HAI is a multi-disciplinary institute focused on Foundation models.
 ## Papers
 
 [Towards Geospatial Foundation Models via Continual Pretraining](https://arxiv.org/abs/2302.04476)
+
 [SpectalGPT](https://arxiv.org/abs/2311.07113)
 
 
