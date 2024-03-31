@@ -25,6 +25,8 @@ IBM Technology on Youtube is a great place to start.
 [Andrew NG Generative AI with Large Language Models](https://downloadly.ir/elearning/video-tutorials/generative-ai-with-large-language-models/)
 
 
+[New] [Udemy Natural Language Processing: NLP With Transformers in Python](https://www.udemy.com/course/nlp-with-transformers/?couponCode=LETSLEARNNOWPP)
+
 
 [IBM Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms#modules)
 
@@ -58,7 +60,7 @@ Stanford HAI is a multi-disciplinary institute focused on Foundation models.
 
 [SpectralGPT](https://www.linkedin.com/posts/danfeng-hong-82868612b_spectralgpt-the-first-spectral-remote-sensing-activity-7142524357293056000-0sua/?utm_source=share&utm_medium=member_android)
 
-
+[Awsome Vision Language Models for Earth Observation](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation)
 
 ## Papers
 
