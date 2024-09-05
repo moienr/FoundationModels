@@ -64,6 +64,10 @@ Stanford HAI is a multi-disciplinary institute focused on Foundation models.
 
 ## Papers
 
+[PRESTO Lightweight, Pre-trained Transformers for Remote Sensing Timeseries] (https://arxiv.org/abs/2304.14065)
+
+A founddation model based on masked image autoencoders, for remote sensing data. can handle multiple satellite data sources, and also can be inputed with time series data.
+
 [Towards Geospatial Foundation Models via Continual Pretraining](https://arxiv.org/abs/2302.04476)
 
 [SpectalGPT](https://arxiv.org/abs/2311.07113)
